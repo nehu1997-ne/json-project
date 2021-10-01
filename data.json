@@ -1,0 +1,79 @@
+{
+    "product":[
+        {"id":1,"title":"pulao","price":50,"image":"/assets/1.png",
+            "description":"there's a polao for you."},
+
+
+            {"id":2,"title":"dal","price":60,"image":"/assets/1.png",
+                "description":"there's a dal for you."},
+
+
+                {"id":3,"title":"bhature","price":70,"image":"/assets/1.png",
+                    "description":"there's a bhature for you."},
+                          
+
+                    {"id":4,"title":"chhole","price":80,"image":"/assets/1.png",
+                        "description":"there's a chhole for you."},
+
+                        {"id":5,"title":"puri","price":90,"image":"/assets/1.png",
+                            "description":"there's a puri for you."},
+                                  
+
+                            
+                            {"id":6,"title":"momos","price":79,"image":"/assets/1.png",
+                                "description":"there's a momos for you."},
+                                      
+
+                                
+                                {"id":7,"title":"panipuri","price":67,"image":"/assets/1.png",
+                                    "description":"there's a pani-puri for you."},
+                                          
+
+                                    
+                                    {"id":8,"title":"custurd","price":90,"image":"/assets/1.png",
+                                        "description":"there's a custurd for you."},
+
+
+                                        {"id":9,"title":"sambhar","price":65,"image":"/assets/1.png",
+                                            "description":"there's a sambhar for you."},
+                                                  
+
+                                            
+                                            {"id":10,"title":"idli","price":69,"image":"/assets/1.png",
+                                                "description":"there's a idli for you."},
+                                                      
+
+                                                
+                                                {"id":11,"title":"dosa","price":57,"image":"/assets/1.png",
+                                                    "description":"there's a dosa for you."},
+                                                          
+
+                                                    
+                                                    {"id":12,"title":"burger","price":45,"image":"/assets/1.png",
+                                                        "description":"there's a burger for you."},
+                                                              
+
+                                                        
+                                                        {"id":13,"title":"paneer","price":89,"image":"/assets/1.png",
+                                                            "description":"there's a palak-paneer for you."},
+
+                                                            {"id":14,"title":"pizza","price":454,"image":"/assets/1.png",
+                                                                "description":"there's a pizza for you."},
+                                                                
+                                                                
+                                                                {"id":15,"title":"paneer","price":6,"image":"/assets/1.png",
+                                                                    "description":"there's a paneer for you."}
+                                                                  
+
+                                                            
+
+                                              
+                            
+                              
+            
+                      
+    
+                  
+
+    ]
+}
